@@ -1,3 +1,3 @@
 # AI-repository- 
 ### About Me 
-i an avid learner and i'm a Data Analyst.
+I'm an avid learner and also a Data Analyst.
